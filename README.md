@@ -23,6 +23,5 @@ For instructions on how to run it, visit ./INSTALL.md
 
 ### Contributors
 
-This is the final project for CS3110 - Functional Programming, at Cornell University.
 - Eric Huang (egh65, https://github.coecis.cornell.edu/egh65)
 - Nadav Soudry (nms86, https://github.coecis.cornell.edu/nms86)
