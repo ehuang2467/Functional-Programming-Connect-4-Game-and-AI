@@ -1,4 +1,0 @@
-(library
- (name con4)
- (public_name Con4game)
- (libraries ANSITerminal))
